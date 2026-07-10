@@ -13,8 +13,8 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irembagcivan&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irembagcivan&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irembagcivan&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irembagcivan&layout=compact&theme=radical" alt="Top Languages" width="38%" />
 </p>
 
 <br>
