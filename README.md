@@ -11,14 +11,6 @@
 
 <br>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irembagcivan&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irembagcivan&layout=compact&theme=radical" alt="Top Languages" width="38%" />
-</p>
-
-<br>
-
 <h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="55" height="55" style="margin-right: 15px;"/>
