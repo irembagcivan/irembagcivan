@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm İrem</h1>
+<h1 align="center">Hi💗, I'm İrem🐥</h1>
 
 ---
 
-<h3 align="center">A computer engineering 4th grade student in İzmir Bakırçay Üniversitesi from Turkey</h3>
+<h3 align="center">A computer engineering 4th grade student in Izmir Bakırçay University from Turkey</h3>
 
 * 🔭 I’m a Computer Engineering student focusing on web development and databases.
 * 💻 Experienced in developing projects utilizing machine learning models.
-* ⚙️ My tech stack includes C, C++, Python, C#, PostgreSQL, and HTML.
+* ⚙️ My tech stack includes C, C++, Python, C#, PostgreSQL.
 * 📫 How to reach me **<a href="mailto:irembagcivaan@gmail.com">irembagcivaan@gmail.com</a>**
 
 <br>
