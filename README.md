@@ -4,7 +4,6 @@
 
 <h3 align="center">A computer engineering 4th grade student in Izmir Bakırçay University from Turkey</h3>
  
-* 👩🏼‍💻 My tech stack includes C, C++, Python, C#, PostgreSQL.
 * 🩷 How to reach me **<a href="mailto:irembagcivaan@gmail.com">irembagcivaan@gmail.com</a>**
 
 <br>
